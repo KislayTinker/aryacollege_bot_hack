@@ -1,1 +1,2 @@
-# aryacollege_bot_hack
+# Arya College Bot Hackathon Project
+
